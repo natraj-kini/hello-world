@@ -1,4 +1,4 @@
 # hello-world
 Just testing
-The rain in spain stays mainly in the plan.
+The rain in Spain stays mainly in the plain.
 The quick brown fox jumps over the lazy dog.
